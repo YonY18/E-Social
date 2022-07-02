@@ -3,13 +3,13 @@
 <h3>Proyecto Grupal Bootcamp Henry</h3>
 
 <div>
-![Captura de pantalla (11)](https://user-images.githubusercontent.com/85300818/177004402-84937f91-a98e-4a22-821e-2671afcec4cb.png)
-![Captura de pantalla (12)](https://user-images.githubusercontent.com/85300818/177004454-88175061-5872-416a-bdf8-198f283a5644.png)
-![Captura de pantalla (13)](https://user-images.githubusercontent.com/85300818/177004458-72811f2f-ee91-461c-8c91-fe56053e6989.png)
-![Captura de pantalla (14)](https://user-images.githubusercontent.com/85300818/177004464-fccb9b7c-742e-4df8-b217-87b89191af3f.png)
-![Captura de pantalla (15)](https://user-images.githubusercontent.com/85300818/177004469-9a8afd33-438c-488e-863c-8107343221fc.png)
-![Captura de pantalla (16)](https://user-images.githubusercontent.com/85300818/177004473-85608072-31c6-4524-928b-27f9500b09d9.png)
-![Captura de pantalla (17)](https://user-images.githubusercontent.com/85300818/177004475-6bae1f06-4700-4120-8925-f51b80b40f6a.png)
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004402-84937f91-a98e-4a22-821e-2671afcec4cb.png'>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004454-88175061-5872-416a-bdf8-198f283a5644.png'/>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004458-72811f2f-ee91-461c-8c91-fe56053e6989.png'/>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004464-fccb9b7c-742e-4df8-b217-87b89191af3f.png'/>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004469-9a8afd33-438c-488e-863c-8107343221fc.png'/>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004473-85608072-31c6-4524-928b-27f9500b09d9.png'/>
+<img alt='E-Social' src='https://user-images.githubusercontent.com/85300818/177004475-6bae1f06-4700-4120-8925-f51b80b40f6a.png'/>
 </div>
 
 <h3>¿De qué se trata este proyecto?<h3>
